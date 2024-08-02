@@ -28,7 +28,6 @@ Time series forecasting is used in a wide range of applications:
    - cyclic patterns - fluctuations without fixed periods
 
 3. Forecasting Models: Various statistical models are used for forecasting. Some of these include:
-
   - ARIMA (AutoRegressive Integrated Moving Average): A model that uses the dependencies between an observation and a number of lagged observations.
   - Seasonal ARIMA (SARIMA): An extension of ARIMA that adds seasonality components.
   - Exponential Smoothing: This method forecasts future data by weighting the contributions of past data, with the weights decaying exponentially as the observations get older.
